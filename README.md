@@ -44,11 +44,7 @@ This project demonstrates skills in:
 - Power BI
 - Excel 
 
----
 
-📷 Dashboard Preview
-
-👉 (Add your dashboard screenshots here for better impact)
 
 ---
 
